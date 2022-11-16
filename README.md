@@ -16,8 +16,6 @@ pip install colorama
 
 ## Si quieres usar el proyecto sin **Colorama** use el archivo **main1.py**
 
-<hr>
-
 # Encryptor and decryptor in python
 
 The only library that was used in the project was **Colorama**
